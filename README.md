@@ -42,7 +42,7 @@ where 'library' is the name of your library module.
 
 ## Using
 
-You may need this to use the calendar.  Put this into your xml file:
+You may need this to use the linegraph.  Put this into your xml file:
 ```xml
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
